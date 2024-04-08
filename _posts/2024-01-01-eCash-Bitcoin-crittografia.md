@@ -2,7 +2,7 @@
 title: eCash, Bitcoin e crittografia
 author: FiliTol
 date: 2024-04-08 00:00:00
-categories: [Approfondimento, Bitcoin, ecash, scalabilità, fiducia, intermediari]
+categories: [Approfondimento, Bitcoin, ecash, scalabilità, fiducia, intermediari, privacy]
 tags: Approfondimento
 img_path: /assets/img/
 ---
