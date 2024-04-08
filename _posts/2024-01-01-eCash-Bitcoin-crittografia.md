@@ -213,8 +213,3 @@ Nonostante i decenni, la soluzione proposta da Chaum si riconferma una tecnologi
 - <a href="https://docs.cashu.space/" target="_blank">Cashu documentation [website]</a>
 - <a href="https://www.youtube.com/watch?v=VwMzNE1D3so" target="_blank">Chaumian eCash in Bitcoin - Cashu & Fedimint - Adam Gibson aka waxwing [youtube]</a>
 
-## Risorse aggiuntive
-
-Per chiarire ulteriormente la procedura di minting e verifica del token utilizzata in Cashu allego uno schema riassuntivo contenente le formule estese.
-
-<object data="/assets/docs/scheme.pdf" width="600" height="800" type='application/pdf'/>
