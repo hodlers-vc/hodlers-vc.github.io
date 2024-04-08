@@ -87,7 +87,7 @@ Al fine di introdurre le particolarità ed il funzionamento di Cashu, si procede
 
 ### Il protocollo Bitcoin in breve
 
-<a href="https://bitcoin.org/bitcoin.pdf" target="_blank">Il whitepaper di Bitcoin</a>, pubblicato da Satoshi Nakamoto il 31 ottobre 2008, illustra un sistema di pagamento digitale senza intermediari che risolve il problema della doppia spesa con una geniale applicazione di varie tecnologie tra cui <a href="https://nakamotoinstitute.org/finney/rpow/index.html" target="_blank">Reusable Proof of Work</a> ideato da Hal Finney ed il sistema <a href="http://www.hashcash.org/papers/hashcash.pdf" target="_blank">Hashcash</a> teorizzato da Adam Back.
+<a href="https://bitcoin.org/bitcoin.pdf" target="_blank">Il whitepaper di Bitcoin</a>, pubblicato da Satoshi Nakamoto il 31 ottobre 2008, illustra un sistema di pagamento digitale senza intermediari che risolve il problema della doppia spesa con una geniale applicazione di varie tecnologie tra cui <a href="https://nakamotoinstitute.org/finney/rpow/index.html" target="_blank">Reusable Proof of Work</a> ideato da Hal Finney ed il sistema <a href="https://www.hashcash.org/papers/hashcash.pdf" target="_blank">Hashcash</a> teorizzato da Adam Back.
 
 #### Proprietà del protocollo
 
