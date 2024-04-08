@@ -123,7 +123,7 @@ L'utente mantiene la sovranità sui propri fondi, ereditando le responsabilità 
 
 Ogni proposta tecnologica avanzata fino ad oggi si mantiene all'interno dello spettro di possibilità costituito dal precedente trade-off: soluzioni come le piattaforme Exchange sono infatti un perfetto esempio di soluzione di tipo 1, mentre proposte come Lightning Network o il concetto generale di sidechain si possono considerare alla stregua di 'variazioni' della soluzione di tipo 2.
 
-<img src="/assets/img/custodiality.png" alt="Trade-off custodial vs self-custodial" width="600" height="400">
+<img src="custodiality.png" alt="Trade-off custodial vs self-custodial" width="600" height="400">
 
 ### Cashu
 
@@ -149,7 +149,7 @@ Di seguito uno schema approfondito del funzionamento di Cashu. Tra le risorse ag
     - `x` stringa casuale, di fatto il messaggio segreto. Da `x` viene matematicamente derivato il punto `Y` sulla curva ellittica
     - `r` chiave privata di Alice (fattore blinding)
 
-<img src="/assets/img/cashu_scheme.png" alt="Ecash creation scheme" width="800" height="800">
+<img src="cashu_scheme.png" alt="Ecash creation scheme" width="800" height="800">
 
 #### Osservazioni
 
